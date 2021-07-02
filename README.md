@@ -5,14 +5,14 @@
 * Distintos tipos de enemigos y sangre:
   
   * Rojos: 3 vidas, velocidad lenta
-<br/>
-    <img src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/red.gif>
+
+    <img width=356/2 height=200/2 src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/red.gif>
   * Amarillos: 1 vida, velocidad rapida
-<br/>
-    <img src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/yellow.gif>
+
+    <img width=356/2 height=200/2  src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/yellow.gif>
   * Movimientos de camara cuando se mata un enemigo 
-<br/>
-    <img src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/camera.gif>
+
+    <img width=356/2 height=200/2  src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/camera.gif>
 
 ---
 
