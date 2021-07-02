@@ -1,3 +1,16 @@
+# WaveShooter
+* Juego de estilo shooter avanzado:
+  * Distintos tipos de enemigos y sangre
+    * Rojos: 3 vidas, velocidad lenta
+    <img src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/red.gif>
+    * Amarillos: 1 vida, velocidad rapida
+    <img src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/yellow.gif>
+  * Movimientos de camara cuando se mata un enemigo 
+  <img src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/camera.gif>
+* Sistema de guardado local de mayor puntuacion
+
+---
+
 # Descargar Godot Engine e importar el proyecto
 
 
