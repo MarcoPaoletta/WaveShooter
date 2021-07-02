@@ -1,13 +1,18 @@
 # WaveShooter
-* Juego de estilo shooter avanzado:
-  * Distintos tipos de enemigos y sangre
-    * Rojos: 3 vidas, velocidad lenta
-    <img width="50" height="50" src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/red.gif>
-    * Amarillos: 1 vida, velocidad rapida
-    <img width="50" height="50" src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/yellow.gif>
-  * Movimientos de camara cuando se mata un enemigo 
-  <img width="50" height="50" src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/camera.gif>
+* Juego de estilo shooter avanzado
+* Se dispara tocando click izquierdo hacia la direccion de la flecha del raton
 * Sistema de guardado local de mayor puntuacion
+* Distintos tipos de enemigos y sangre:
+  
+  * Rojos: 3 vidas, velocidad lenta
+<br/>
+    <img width="120" height="120" src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/red.gif>
+  * Amarillos: 1 vida, velocidad rapida
+<br/>
+    <img width="120" height="120" src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/yellow.gif>
+  * Movimientos de camara cuando se mata un enemigo 
+<br/>
+    <img width="250" height="200" src=https://github.com/MarcoPaoletta/WaveShooter/blob/main/camera.gif>
 
 ---
 
