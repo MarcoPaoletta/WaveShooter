@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://src/powerupreload/PowerUpReload.tscn" type="PackedScene" id=1]
+
+[node name="PowerUpDamage" instance=ExtResource( 1 )]
+modulate = Color( 0.913725, 0.0784314, 0.537255, 1 )
+player_variable_modify = "damage"
+player_variable_set = 2.0
