@@ -19,7 +19,7 @@
 # Descargar Godot Engine e importar el proyecto
 
 
-### Descargar Godot Engine
+## Descargar Godot Engine
 
 * Accedemos al sitio oficial de [Godot Engine](https://godotengine.org/download) en la parte de descargas
 * Seleccionamos nuestro sistema operativo
@@ -29,7 +29,7 @@
 
 ---
 
-### Importar el proyecto
+## Importar el proyecto
 
 * Una vez descargado los archivos del proyecto, movemos la carpeta a una ruta de preferencia
 * Abrimos Godot Engine y en la parte de la derecha buscamos el boton **Import** o **Importar**
